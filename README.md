@@ -1,0 +1,2 @@
+# SwiftFormatStarter
+SwiftFormat setup example
